@@ -1,4 +1,5 @@
 ### Hi there 👋
+<!-- div width="100%" style="background:-webkit-linear-gradient(left, #ea6161, #ffc64d, #fffc4d, #52fa5a, #4dfcff, #c64dff);text-align: center;font-family: inherit;font-weight: bold;max-width: 782px;margin-bottom: 20px;align-content: center;padding: 10px;"> 👋 HI THERE !</div --><!-- TODO: when it will be possible on GitHub -->
 
 <!--
 **Jayshah6699/Jayshah6699** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
