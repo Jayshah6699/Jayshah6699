@@ -13,8 +13,9 @@ Here are some ideas that can help you to get to know me.
 - 📫 How to reach me: Get the link to twitter.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: In my free time I try to do experiments with softwares and hardwares(Arduino, raspberry pi etc.)
+- ![](https://komarev.com/ghpvc/?username=Jayshah6699&label=STALKERS+COUNT)
 - I am experienced engineer as I have done several short circuits while implementing Home Automation!
 
 <img height="137px" src="https://github-readme-stats.vercel.app/api?username=Jayshah6699&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayshah6699&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 
-# By the way don't judge me based on the stats, I do lot of stuff.
+# By the way don't judge me based on the stats, I do lot of stuff. Currently working on my portfolio website...
