@@ -1,5 +1,4 @@
-### Hi there 👋
-### This is Jay shah who loves hands on experience.
+<h1 align="center">Hi 👋, I'm Jay</h1>
 Here are some ideas that can help you to get to know me.
 
 - 🔭 I’m currently working on a website.
